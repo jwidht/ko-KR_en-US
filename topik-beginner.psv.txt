@@ -1,4 +1,4 @@
-quiz.properties|name=Basic Words, Set 2~~q_lang=ko-KR~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
+quiz.properties|name=TOPIK Beginner Level, Set 2~~q_lang=ko-KR~~a_lang=en-US~~fontsize_q=40~~fontsize_a=40
 가격|price
 가구|furniture
 가방|bag
